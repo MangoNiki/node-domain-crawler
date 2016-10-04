@@ -1,0 +1,19 @@
+{
+  "name": "node-domain-crawler",
+  "version": "1.0.0",
+  "description": "this is a domain crawler",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "crawler",
+    "domain"
+  ],
+  "author": "niki",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.0.1",
+    "iconv-lite": "^0.4.13"
+  }
+}
